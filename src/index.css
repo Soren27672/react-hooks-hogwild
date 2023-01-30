@@ -140,6 +140,16 @@ ul {
   clear: both;
 }
 
+.pigTile img {
+  width: 100%;
+  height: auto;
+}
+
+.popUp {
+  position: fixed;
+  width: fit-content;
+}
+
 
 @keyframes App-logo-spin {
   from {
